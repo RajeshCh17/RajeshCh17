@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajeshCh17
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning react,angular,nodejs,python
+- 🌱 I’m currently working on react,angular,nodejs,python
 - 💞️ I’m looking to collaborate on react,angular
 - 📫 How to reach me 15rafach.49@gmail.com
 
