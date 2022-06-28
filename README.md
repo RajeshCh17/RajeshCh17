@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajeshCh17
-- 👀 I’m interested in Software development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently working on react,angular,nodejs,python
 - 📫 How to reach me 15rafach.49@gmail.com
 
